@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **C++, Python, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **inzamamul9525@gmail.com**
 
